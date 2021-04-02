@@ -2,10 +2,9 @@
 
 Hey! My name is Hector Rosales. I am 14 years old and live in a small town in southern California. I started programming in the summer of 2020 during quarentine. I started with programming Discord bots and progressed my way up to websites, and now whole functional complete games. 
 
-- 🤝 I am available for hire! Message me to inquire about a custom Discord Bot!
 - 😄 Find more about my Personal Life and how I am currently doing on my [Twitter](https://twitter.com/ZeekzTheKing)
 - 👥 My community Discord [Server](https://discord.gg/3rTTbGbsQG)!
-- 👥 My brand [Zyretic Technologies](https://zyretic.com)!
+- ⚡ My brand, [Zyretic Technologies](https://zyretic.com)!
 
 <details>
 <summary>📞 <b>Want to interact with me?</b></summary>
@@ -46,20 +45,3 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 </p>
 
 </details>
-
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-<!--START_SECTION:waka-->
-
-
-
-
-<!--END_SECTION:waka-->
-</details>
-
-
-
-
-
-
