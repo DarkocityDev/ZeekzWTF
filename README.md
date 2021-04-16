@@ -33,8 +33,8 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 
 <h1 align="center">Github Stats</h1>
 <a href="https://github.com/ZeekzAtGeniton/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonfirexbox&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonfirexbox&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeekzAtGeniton&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeekzAtGeniton&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
 </br>
 
 <p align = "left">
@@ -51,3 +51,6 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 </p>
 
 </details>
+
+<a href="https://discord.gg/bj9ynq57dj" target="blank"><img src="https://shields.io/badge/join_my-discord-7289DA?logo=discord&style=for-the-badge" alt="https://discord.gg/h7WuS7BeKs"/></a>
+<a href="https://discord.gg/dphmTfWX4D" target="blank"><img src="https://shields.io/badge/join_my-discord2-7289DA?logo=discord&style=for-the-badge" alt="https://discord.gg/aRVSkkET5N"/></a>
