@@ -4,7 +4,7 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 
 - 😄 Find more about my Personal Life and how I am currently doing on my [Twitter](https://twitter.com/ZeekzTheKing)
 - 👥 My community Discord [Server](https://discord.gg/3rTTbGbsQG)!
-- ⚡ My brand, [Zyretic Technologies](https://zyretic.com)!
+- 🌎 My brand, [Geniton](https://geniton.com)!
 
 <details>
 <summary>📞 <b>Want to interact with me?</b></summary>
@@ -12,7 +12,7 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 <p align = "center">
 
   [<img src ="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white2">](https://discord.gg/3rTTbGbsQG)
-  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nataliaismines/)
+  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zeekztheking/)
    [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCBTJpuhHTPxHq0A31taNp4A)
   [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ZeekzTheKing) 
 </p>
@@ -21,21 +21,16 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 
 <details>
  <summary>🎨 <b>My Github Statistics</b>: </summary>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ZeekzDev&show_icons=true&theme=onedark">
-</p>
-
+<a href="https://github.com/ZeekzAtGeniton/">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeekzAtGeniton&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeekzAtGeniton&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
+</br>
 
 </details>
 
 <details>
 <summary>💡 <b>Coding Languages & Libaries I know</b>:</summary>
 
-<h1 align="center">Github Stats</h1>
-<a href="https://github.com/ZeekzAtGeniton/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeekzAtGeniton&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeekzAtGeniton&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
-</br>
 
 <p align = "left">
 
