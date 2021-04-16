@@ -31,6 +31,12 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 <details>
 <summary>💡 <b>Coding Languages & Libaries I know</b>:</summary>
 
+<h1 align="center">Github Stats</h1>
+<a href="https://github.com/ZeekzAtGeniton/">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonfirexbox&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonfirexbox&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/>
+</br>
+
 <p align = "left">
 
 - discord.js
