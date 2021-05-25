@@ -1,9 +1,9 @@
 ## Hey there! 👋 
 
-Hey! My name is Hector Rosales. I am 14 years old and live in a small town in southern California. I started programming in the summer of 2020 during quarentine. I started with programming Discord bots and progressed my way up to websites, and now whole functional complete games. 
+Hey! My name is Zeekz or Hector. I am 14 years old and live in California. I started programming in the summer of 2020 during quarentine. I started with programming Discord bots and progressed my way up to websites, and now whole functional complete games. 
 
-- 😄 Find more about my Personal Life and how I am currently doing on my [Twitter](https://twitter.com/ZeekzTheKing)
-- 👥 My community Discord [Server](https://discord.gg/3rTTbGbsQG)!
+- 😄 Find more about my Personal Life and how I am currently doing on my [Twitter](https://twitter.com/ZeekzWTF)
+- 👥 My community Discord [Server](https://discord.gg/PRMTCcNsFE)!
 - 🌎 My brand, [Geniton](https://geniton.com)!
 
 <details>
@@ -11,10 +11,9 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 
 <p align = "center">
 
-  [<img src ="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white2">](https://discord.gg/3rTTbGbsQG)
-  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zeekztheking/)
-   [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCBTJpuhHTPxHq0A31taNp4A)
-  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ZeekzTheKing) 
+  [<img src ="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white2">](https://discord.gg/PRMTCcNsFE)
+   [<img src = "https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCdIJZGP-u-XMFJdoaYFKJUQ)
+  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ZeekzWTF) 
 </p>
 
 </details>
@@ -23,8 +22,8 @@ Hey! My name is Hector Rosales. I am 14 years old and live in a small town in so
 <summary>🎨 <b>My Github Statistics</b>: </summary>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeekzAtGeniton&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeekzAtGeniton&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzAtGeniton"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeekzWTF&show_icons=true&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzWTF"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeekzWTF&show_icons=true&locale=en&layout=compact&bg_color=1f1d2e&text_color=FAF4ED&icon_color=C3A6E6&title_color=9CCFD8" alt="ZeekzWTF"/></p>
 <br>
 </details>
 
