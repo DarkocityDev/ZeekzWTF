@@ -4,7 +4,7 @@ Hey! My name is Zeekz or Hector. I am 14 years old and live in California. I sta
 
 - 😄 Find more about my Personal Life and how I am currently doing on my [Twitter](https://twitter.com/ZeekzWTF)
 - 👥 My community Discord [Server](https://discord.gg/PRMTCcNsFE)!
-- 🌎 My brand, [Geniton](https://geniton.com)!
+
 
 <details>
 <summary>📞 <b>Want to interact with me?</b></summary>
